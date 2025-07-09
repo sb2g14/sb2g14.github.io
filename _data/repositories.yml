@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - sb2g14
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sb2g14/PoMoBalance
+  - sb2g14/soton_3D_print
+  - sb2g14/wasserstein_time_inference
+  - revbayes/revbayes
